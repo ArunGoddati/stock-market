@@ -1,0 +1,22 @@
+.bag-container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding:20px;
+}
+.main-heading{
+    font-size:20px;
+    font-family:"roboto";
+}
+.information-heading{
+    font-size:20px;
+    font-weight:600;
+    font-family:"roboto";
+}
+.information-text{
+    font-size:17px;
+    font-weight:300;
+    font-family:"roboto";
+    color:green;
+}
